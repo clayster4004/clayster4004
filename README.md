@@ -10,4 +10,4 @@ I interned at a company doing NetSuite web development.
 In this role I did a lot of backend functionality and automation tasks.
 
 ## Contact information
-I can be reached at bealcl@mail.gvsu.edu
+I can be reached at cbeal4004@gmail.com
