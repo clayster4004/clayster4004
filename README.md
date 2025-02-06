@@ -3,7 +3,7 @@ Hey Everyone! My name is Clay Beal and I am a CS Senior at Grand Valley State Un
 Besides coding I enjoy watching anime and spending time with those I love.
 
 ## My Current Studies
-I am currently learning about mobile application development which I am really exited about!
+I am currently learning React/NextJs and have been absolutely loving it
 
 ## Previous Experience
 I interned at a company doing NetSuite web development.
